@@ -12,3 +12,4 @@ C:\Users\asus\source\repos\tpmodul4_103022300142\tpmodul4_103022300142\obj\Debug
 C:\Users\asus\source\repos\tpmodul4_103022300142\tpmodul4_103022300142\obj\Debug\net8.0\tpmodul4_103022300142.pdb
 C:\Users\asus\source\repos\tpmodul4_103022300142\tpmodul4_103022300142\obj\Debug\net8.0\tpmodul4_103022300142.genruntimeconfig.cache
 C:\Users\asus\source\repos\tpmodul4_103022300142\tpmodul4_103022300142\obj\Debug\net8.0\ref\tpmodul4_103022300142.dll
+C:\Users\asus\source\repos\tpmodul4_103022300142\tpmodul4_103022300142\obj\Debug\net8.0\tpmodul4_103022300142.sourcelink.json
